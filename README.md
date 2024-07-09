@@ -1,5 +1,1 @@
-1. Diseño fiel al prototipo de Figma. Responsive tanto en Desktop como en Mobile. (4 puntos)
-2. [x] Creación de estructura json para la lista de release notes y releases en timeline. (2 puntos)
-3. [x] Filtrado por tipo de release (All, Feat, Fix). (2 puntos)
-4. Animación de fade-in de cada ítem al hacer scroll down en el timeline. (1 punto)
-5. [X]Barra de all release notes fijada en altura, no se debe mover al hacer scroll down en el timeline. (1 punto)
+
