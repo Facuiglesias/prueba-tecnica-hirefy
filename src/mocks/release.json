@@ -1,0 +1,75 @@
+{
+  "Release": [
+    {
+      "title": "Redesigned notifications",
+      "chip": "Feat",
+      "date": "Aug 10, 2024",
+      "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+      "img": "./src/assets/imagen1.png",
+      "items": ""
+    },
+    {
+      "title": "Bugs",
+      "chip": "Fix",
+      "date": "Jul 23, 2024",
+      "description": "In our continuous effort to make Hirefy the most reliable recruiting platform, we eliminate bugs in the platform! Here's a summary of some of the major fixes:",
+      "img": "",
+      "items": [
+        "Unable to attach PDF to tasks using the Adobe integration.",
+
+        "The total contract time between talent and clients cannot be updated.",
+
+        "Some files are not loading when uploaded to portfolio.",
+
+        "You cannot update the company photo.",
+
+        "You cannot update the job post list from the talent dashboard.",
+
+        "The marketplace filters were not working correctly, they duplicated cards.",
+
+        "Users could enter a talent's portfolio without having to log in.",
+
+        "Homepage: new images with correct shadows.",
+
+        "Email Hirefy signatures displayed incorrect padding."
+      ]
+    },
+    {
+      "title": "Redesigned Time Tracking",
+      "chip": "Feat",
+      "date": "Jul 15, 2024",
+      "description": "With the revamped Time Tracking interface, you get a streamlined design for easier, efficient time tracking. Track time directly from the menu bar and have admins record time for other users, ensuring total time-tracking control.",
+      "img": "./src/assets/imagen2.png",
+      "items": ""
+    }
+  ],
+  "Release_notes": [
+    "Release 6.5: New features and enhanced algorith...",
+    "Release 6.4: Hirefy: Precision Unleashed",
+    "Release 6.3: Hirefy is Expanding Horizons",
+    "Release 6.2: Time for some Bug Squashing",
+    "Release 6.1: Augmented Reality Talent Portfolios are Live",
+    "Release 6.0: Augmented Reality Talent Portfolios are in BETA",
+    "Release 5.4: Bug Fixes and Performance Optimization",
+    "Release 5.3: Simplified Job Posting Analytics",
+    "Release 5.2: Interactive Interview Feedback",
+    "Release 5.1: Responsive Design Tweaks: Your tablet is ready for Hirefy!",
+    "Release 5.0: Expanded Language Support",
+    "Release 4.3: Server Performance Optimization",
+    "Release 4.2: Intelligent Candidate Recommendations and Collaborative Talent Projects",
+    "Release 4.1: Our Mobile app is on the store",
+    "Release 4.0: Advanced Networking Communities",
+    "Release 3.3: Personalized Skill Development Recommendations",
+    "Release 3.2: Community-Reported Bug Fixes",
+    "Release 3.1: Getting ready for Mobile Launch",
+    "Release 3.0: Our family is getting bigger",
+    "Release 2.2: The importance of Consent",
+    "Release 2.1: AI-Powered Skill Gap Analysis",
+    "Release 2.0: Cloud Infrastructure Scaling",
+    "Release 1.4: Baby steps..",
+    "Release 1.3: Proactive Community Bug Hunt",
+    "Release 1.2: User-Centric Performance Enhancements",
+    "Release 1.1: Server Response Time Tweaks",
+    "Release 1.0: Initial Launch: Navigating the Beginning"
+  ]
+}

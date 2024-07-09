@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient-colors {
+  background: rgb(13, 82, 135);
+  background: linear-gradient(
+    90deg,
+    rgba(13, 82, 135, 1) 0%,
+    rgba(24, 125, 202, 1) 21%,
+    rgba(5, 170, 206, 1) 42%,
+    rgba(4, 210, 198, 1) 63%,
+    rgba(38, 228, 199, 1) 79%
+  );
+}
+
+/* Desactivar flecha default */
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
